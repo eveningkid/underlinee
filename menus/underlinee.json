@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Generate Underlinee comment",
+        "command": "underlinee:generate-comment"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Underlinee",
+          "submenu": [
+            {
+              "label": "Generate comment",
+              "command": "underlinee:generate-comment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
