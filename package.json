@@ -1,17 +1,15 @@
 {
   "name": "Underlinee",
   "main": "./lib/underlinee",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Underline your comments in Atom like a pro!",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/eveningkid/underlinee",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "activationCommands": {
     "atom-workspace": "underlinee:generate-comment"
   }
