@@ -5,7 +5,7 @@
   "description": "Underline your comments in Atom like a pro!",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/underlinee",
+  "repository": "https://github.com/eveningkid/underlinee",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
