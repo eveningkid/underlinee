@@ -3,7 +3,11 @@
   "main": "./lib/underlinee",
   "version": "0.3.0",
   "description": "Underline your comments in Atom like a pro!",
-  "keywords": [],
+  "keywords": [
+    "underline",
+    "atom",
+    "atom-package"
+  ],
   "repository": "https://github.com/eveningkid/underlinee",
   "license": "MIT",
   "engines": {
