@@ -1,7 +1,7 @@
 {
   "name": "Underlinee",
   "main": "./lib/underlinee",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Underline your comments in Atom like a pro!",
   "keywords": [],
   "repository": "https://github.com/eveningkid/underlinee",
